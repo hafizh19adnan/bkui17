@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BKUI17
+        psr4_prefix: BKUI17
+        src_path: app
